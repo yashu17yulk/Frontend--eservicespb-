@@ -1,0 +1,23 @@
+.container-fluid{
+height: 97px;
+width: 1519px;
+padding: 30px;
+position: fixed;
+background-color: white;
+}
+
+.imgl{
+
+  height: 50px;
+  margin-top: 5px;
+}
+.modalt{
+
+  margin-left: 200px;
+  
+}
+
+.md-form{
+  
+}
+ 
